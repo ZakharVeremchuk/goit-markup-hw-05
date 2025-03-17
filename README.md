@@ -1,1 +1,1 @@
-Website: https://zaharveremchuk.github.io/goit-markup-hw-05/
+Website: https://zaharveremchuk.github.io/goit-markup-hw-06/
